@@ -1,0 +1,6 @@
+SkyPvP_Core|||1.0|||1.20.1|||经典游戏SkyPvP
+功能
+1.玩家PvP状态显示
+2.指定区域20分钟刷矿依赖worldedit
+3.挖矿转点券PlayerPoints钻石矿换10点
+|||SkyPvP_Core|||E:/Python/AutoWriteProject/dist/code/fabric
